@@ -21,7 +21,7 @@
 </div>  
 </br>
 <div>
-  <h5> ✉️ Você pode me encontar : https://www.linkedin.com/in/pedro-garcia-schunck/ </h5>
+  <h5> ✉️ Você pode me encontar : </h5>
 </div>
 <p align="left">
 
