@@ -28,9 +28,7 @@
 
 <div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rafaelrvs//" alt="LinkedIn"><a>
-      https://www.linkedin.com/in/pedro-garcia-schunck/
-  </a>
+  <a href="https://www.linkedin.com/in/pedro-garcia-schunck/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/rafaelrvs/" />
 </div>
 
