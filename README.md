@@ -35,7 +35,7 @@
 </p>  
 
 <diva  lign="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rafaelrvs&show_icons=true&theme=tokyonight"  align="end" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=PedroGS13876&show_icons=true&theme=tokyonight"  align="end" alt="GitHub Stats"/>
   <br><br>
       <img src="https://github-profile-trophy.vercel.app/?username=PedroGS13876&theme=tokyonight" align="center"  alt="GitHub Trophies"/>
   <br><br>
