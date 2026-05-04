@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Typing SVG animado -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Pedro+Garcia!+%F0%9F%91%8B;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Java+%2B+Spring+Boot+%F0%9F%8D%83;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=PedroGS13876&label=Visitas+ao+perfil&color=F7A41D&style=flat" alt="Visitas" />
@@ -50,23 +49,17 @@ public class Pedro {
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroGS13876&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGS13876&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGS13876&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroGS13876&theme=tokyonight&hide_border=true" alt="Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroGS13876&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-### 🏆 Troféus
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroGS13876&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://raw.githubusercontent.com/PedroGS13876/PedroGS13876/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
