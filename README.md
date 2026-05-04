@@ -48,12 +48,8 @@ public class Pedro {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroGS13876&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGS13876&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroGS13876&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img height="165em" src="https://github-stats-alpha.vercel.app/api?username=PedroGS13876&cc=000&tc=fff&ic=fff&bc=000"/>
+  <img height="165em" src="https://streak-stats.demolab.com/?user=PedroGS13876&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
